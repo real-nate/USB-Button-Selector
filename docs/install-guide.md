@@ -7,7 +7,7 @@ The largest piece of this project is the housing, given as a top and bottom part
 
 ### Electrical
 The following schematic should be used with the default configuration of the code.
-![Circuit Diagram](model/electrical/electrical-wiring_schem.png)
+![Circuit Diagram](../model/electrical/electrical-wiring_schem.png)
 
 A summary of the connections is as follows
 #### Arcade Button
